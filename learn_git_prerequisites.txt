@@ -8,7 +8,7 @@ ssh-keygen -t rsa -C "<your_email_address>"
 cat ~/.ssh/id_rsa.pub # filename may vary, use the filename given from the sshkeygen generation
 # copy contents 
 
-# Go to Github
+# Go to Github/Bitbucket
 # Create/Login to Account
 # ProfilePic > Settings > SSH and GPG Keys
 # New SSH key
